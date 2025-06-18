@@ -46,6 +46,4 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KoushikLodagala/KoushikLodagala/output/dist/snake.svg" alt="GitHub Contribution Snake" />
-</p>
+
