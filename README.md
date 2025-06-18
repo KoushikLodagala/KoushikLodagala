@@ -68,7 +68,6 @@
 
 ---
 
-### My GitHub Activity:
 
 ### My GitHub Activity:
 
