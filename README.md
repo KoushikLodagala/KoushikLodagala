@@ -70,6 +70,8 @@
 
 ### My GitHub Activity:
 
+### My GitHub Activity:
+
 <p align="center">
   <img src="https://github.com/KoushikLodagala/KoushikLodagala/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
