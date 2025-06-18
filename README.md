@@ -1,6 +1,5 @@
-![MasterHead]
-(<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-<br><br>)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
 <h1 align="center">Hi 👋, I'm Lodagala Koushik</h1>
 <h3 align="center">Dedicated Frontend Developer with React.js expertise. Continuously learning and implementing cutting-edge UI solutions. Committed to scalable and maintainable front-end architecture.</h3>
 
