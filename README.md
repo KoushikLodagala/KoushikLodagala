@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lodagala Koushik</h1>
 <h3 align="center">Dedicated Frontend Developer with React.js expertise. Continuously learning and implementing cutting-edge UI solutions. Committed to scalable and maintainable front-end architecture.</h3>
 
-<img align = "right" alt="coding" width ="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align = "right" alt="coding" width ="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushiklodagala&label=Profile%20views&color=0e75b6&style=flat" alt="koushiklodagala" /> </p>
 
